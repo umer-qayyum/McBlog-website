@@ -1,3 +1,3 @@
 # McBlog-website
-mcblog.surge.sh 
-this is my website's view
+[mcblog.surge.sh ](http://mcblog.surge.sh/)
+
